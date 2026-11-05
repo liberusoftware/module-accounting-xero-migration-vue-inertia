@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-xero-migration-vue-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-xero-migration",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-accounting-xero-migration-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/accounting/nextjs/xero-migration.md",
+  "presentationPlan": "projects/accounting/vue/xero-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
